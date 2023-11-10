@@ -1,0 +1,12 @@
+.home{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 3px 3px 3px rgb(255, 85, 0);
+    color: rgb(0, 111, 154);
+    font-family: 'Orbitron', sans-serif;
+}
+body{
+    background-image: url(https://wallpapers.com/images/hd/majestic-view-of-gravity-falls-imoblc5hvimazpil.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
